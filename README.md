@@ -7,6 +7,9 @@ This application extracts details like industry, company size, and location from
 - Python 3.9+
 - FastAPI
 - Uvicorn
+- Pydantic
+- httpx
+- Pydantic_ai
 - BeautifulSoup
 - requests
 - dotenv (optional)
