@@ -29,7 +29,7 @@ This application extracts details like industry, company size, and location from
 
 3. Export the following environment variables by running the following commands: 
     ```
-    export SECRET_KEY=your_secret_key_here
+    export AUTH_KEY=your_secret_key_here
     
     export MISTRAL_API_KEY=your_mistral_api_key_here
     ```
