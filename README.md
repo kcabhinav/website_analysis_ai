@@ -60,7 +60,7 @@ This application extracts details like industry, company size, and location from
         -H 'Authorization: Bearer abcdefghijklmno' \
         -H 'Content-Type: application/json' \
         -d '{
-            "url": "https://gizmeon.com"
+            "url": "https://example.com"
         }'
   ```
 
